@@ -1,4 +1,4 @@
-**Credit Risk Analysis Repository**
+## Credit Risk Analysis Repository
 
 ### Overview
 
