@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 Contributions to this repository are welcome! If you have ideas for improving the credit risk analysis models, implementing additional algorithms, or enhancing the documentation, feel free to submit a pull request.
 
-## Link to Live Project: 
+## Link to Live Project: https://creditriskassessmentusingmachinelearning-pafy4al9aayj4khblrqei.streamlit.app/
 
 ### License
 
